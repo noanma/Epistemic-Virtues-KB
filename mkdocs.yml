@@ -1,0 +1,34 @@
+site_name: Epistemic Virtues Knowledge Base
+nav:
+  - Home: index.md # Landing page/introduction
+  - Tutorials: # Learning-oriented
+    - tutorials/index.md
+    - First Virtue Practice: tutorials/first-virtue-practice.md
+    - classroom-curiosity-workshop.md
+    - facilitating-socratic-seminar.md
+  - How-To Guides: # Problem-solving
+    - how-to-guides/index.md
+    - Respond to Overconfidence: how-to-guides/respond-to-overconfidence.md
+    - design-honesty-assignments.md
+    - model-intellectual-humility.md
+    - facilitate-difficult-discussions.md
+  - Reference: # Information lookup
+    - reference/index.md
+    - Glossary: reference/glossary.md
+    - virtues-overview.md
+    - vices-overview.md
+    - assessment-rubrics.md
+    - bibliography.md
+  - Explanation: # Understanding
+    - explanation/index.md
+    - why-epistemic-virtues-matter.md
+    - metacognition-and-virtues.md
+    - philosophy-for-children.md
+    - baehr-framework.md
+    - formal-vs-informal-education.md
+  - Personas: # Supporting material
+    - personas/index.md
+    - Self-directed Learner: self-directed-learner.md
+    - K12 Educator: k12-educator.md
+    - University Instructor: university-instructor.md
+    - Homeschooler parent: parent-homeschooler.md
