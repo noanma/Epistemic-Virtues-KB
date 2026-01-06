@@ -2,6 +2,17 @@
 
 Welcome to the Epistemic Virtues Knowledge Base—a practical guide for educators, learners, and anyone interested in cultivating intellectual character virtues.
 
+## About This Project
+
+This knowledge base was created as a portfolio demonstration of technical writing and knowledge base development skills, applying the Diátaxis documentation framework to philosophical and educational content.
+
+## Scope and Approach
+
+Teaching for epistemic virtues is complex, context-dependent work that sits at the intersection of philosophy, psychology, and pedagogy. It requires not just knowledge of concepts, but practical wisdom developed through experience, reflection, and ongoing adaptation to the particular learners and contexts you encounter. This complexity cannot be fully captured in any single resource.
+
+This knowledge base offers something more focused: an introduction to core ideas from virtue epistemology and practical examples of what cultivating these virtues might look like in educational settings. 
+The tutorials and how-to guides are starting points—invitations to experiment rather than prescriptions to follow. They illustrate possibilities, not universal solutions. Your work as an educator will require you to adapt these ideas thoughtfully to your own context, reflect on what emerges, and develop your own understanding of how epistemic virtues develop in the particular learners you serve. Think of this resource as a companion to your own inquiry, best used alongside deeper engagement with the theoretical sources cited throughout and attentive reflection on your own practice.
+
 ## What Are Epistemic Virtues?
 
 Epistemic virtues are character traits that help us think well and pursue knowledge responsibly. They include qualities like intellectual humility, curiosity, courage, honesty, and open-mindedness. This knowledge base provides both theoretical understanding and practical guidance for developing these virtues in yourself and others.
@@ -80,31 +91,20 @@ This knowledge base draws on research in virtue epistemology, educational philos
 
 [See full bibliography →](reference/bibliography.md)
 
-## Contributing
-
-This is an open-source project. Contributions, suggestions, and feedback are welcome!
-
-[Read our contribution guidelines →](../CONTRIBUTING.md)
-
-## About This Project
-
-This knowledge base was created as a portfolio demonstration of technical writing and knowledge base development skills, applying the Diátaxis documentation framework to philosophical and educational content.
-
 ## Attribution & Intellectual Property
 
 This knowledge base is an **interpretive work** that synthesizes and applies ideas from published academic research in virtue epistemology and educational philosophy. All original concepts, frameworks, and theories are attributed to their respective authors.
 
 This is not a reproduction of any copyrighted work, but rather an independent synthesis and application of ideas for educational purposes. Direct quotations are minimal and properly cited. The majority of content represents original interpretation, explanation, and application of publicly available academic concepts.
 
-**Primary sources:**
-- Jason Baehr's intellectual character virtues framework
-- Joëlle Proust's work on metacognition  
-- Matthew Lipman's Philosophy for Children approach
-
 All interpretations, applications, tutorials, and how-to guides are original work created for this knowledge base.
+
+## Contributing
+
+This is an open-source project. Contributions, suggestions, and feedback are welcome!
+[Read our contribution guidelines →](../CONTRIBUTING.md)
 
 ---
 
 **Version:** 1.0  
 **Last Updated:** January 2026  
-**License:** [Your chosen license]
