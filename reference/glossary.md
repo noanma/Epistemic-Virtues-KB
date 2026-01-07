@@ -1,6 +1,6 @@
 # Curiosity
 
-## Definition
+### Definition
 
 The disposition to ask thoughtful and insightful questions, driven by a desire to understand and learn. Curiosity initiates the learning process by motivating inquiry and exploration. An intellectually curious person actively seeks knowledge, asks meaningful questions, and pursues understanding beyond surface-level information.
 
@@ -9,13 +9,13 @@ The disposition to ask thoughtful and insightful questions, driven by a desire t
 - Actively seeks new knowledge and understanding
 - Shows genuine interest in learning
 
-## Further Reading
+### Further Reading
 
 Baehr, J. (2011). *The Inquiring Mind*. Oxford University Press, Chapter
 
 # Intellectual Autonomy
 
-## Definition
+### Definition
 
 The ability to think and form beliefs for oneself. This virtue involves independent thinking while remaining appropriately responsive to evidence, expert guidance, and reasonable criticism. An intellectually autonomous person doesn't simply accept what others say but thinks critically and forms their own reasoned judgments.
 
@@ -24,13 +24,13 @@ The ability to think and form beliefs for oneself. This virtue involves independ
 - Forms beliefs based on personal reasoning
 - Remains appropriately responsive to evidence and expertise
 
-## Further Reading
+#### Further Reading
 
 Baehr, J. (2011). *The Inquiring Mind*. Oxford University Press, Chapter
 
 # Intellectual Humility
 
-## Definition
+### Definition
 
 Intellectual humility is the disposition to recognize the limits of one's knowledge and be appropriately aware of one's intellectual fallibility (Baehr, 2011).
 
@@ -41,14 +41,14 @@ Being aware of one's intellectual limitations and being willing to acknowledge, 
 - Willing to admit mistakes and errors
 - Open to learning from others
 
-## Further Reading
+#### Further Reading
 
 Baehr, J. (2011). *The Inquiring Mind*. Oxford University Press, Chapter 6.
 
 
 # Attentiveness
 
-## Definition
+### Definition
 
 The habit of being "personally present" in the learning process, helping individuals avoid distractions and dispersion and focus on what is essential. This virtue involves being mentally engaged, noticing important details, and giving appropriate focus to the task at hand.
 
@@ -59,7 +59,7 @@ The habit of being "personally present" in the learning process, helping individ
 
 # Intellectual Carefulness
 
-## Definition
+### Definition
 
 The willingness to detect and avoid methodological errors and mistakes, resulting in a search for accurate conclusions and results. This virtue involves being thorough in one's thinking, checking work for errors, and striving for accuracy and precision.
 
@@ -70,7 +70,7 @@ The willingness to detect and avoid methodological errors and mistakes, resultin
 
 # Intellectual Thoroughness
 
-## Definition
+### Definition
 
 Investigating topics in depth and exploring the connections among them from a comprehensive perspective. This virtue involves not settling for superficial understanding but probing deeply into subjects and exploring how ideas relate to one another.
 
@@ -92,7 +92,7 @@ The capacity to listen to points of view that are opposed to one's own in an und
 
 # Intellectual Courage
 
-## Definition
+### Definition
 
 The disposition that enables one to sustain one's ideas in the face of opposition or difficulty. This virtue involves being willing to ask difficult questions, challenge assumptions, speak up when necessary, and persist in inquiry even when it's uncomfortable or socially risky.
 
@@ -103,7 +103,7 @@ The disposition that enables one to sustain one's ideas in the face of oppositio
 
 # Tenacity (Perseverance)
 
-## Definition
+### Definition
 
 The disposition to persist in intellectual tasks despite obstacles, setbacks, or difficulties. This virtue involves sustained effort in the face of intellectual challenges and not giving up when learning becomes difficult.
 
@@ -125,7 +125,7 @@ The disposition to evaluate claims, evidence, and arguments impartially, without
 
 # Inquisitiveness
 
-## Definition
+### Definition
 
 A sustained desire to know, understand, or learn. Similar to curiosity but emphasizing a persistent questioning attitude and ongoing engagement with intellectual matters.
 
@@ -136,7 +136,7 @@ A sustained desire to know, understand, or learn. Similar to curiosity but empha
 
 # Intellectual Rigor
 
-## Definition
+### Definition
 
 The disposition to be thorough, precise, and exacting in one's thinking and inquiry. This virtue involves maintaining high standards for evidence, reasoning, and intellectual work.
 
@@ -147,7 +147,7 @@ The disposition to be thorough, precise, and exacting in one's thinking and inqu
 
 # Intellectual Generosity
 
-## Definition
+### Definition
 
 The disposition to interpret others' views and arguments charitably, giving them the benefit of the doubt and considering them in their strongest form. This virtue promotes productive dialogue and mutual understanding.
 
