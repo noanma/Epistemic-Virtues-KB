@@ -1,34 +1,37 @@
 site_name: Epistemic Virtues Knowledge Base
 nav:
-  - Home: index.md # Landing page/introduction
+  - Home: docs/index.md # Landing page/introduction
   - Tutorials: # Learning-oriented
     - tutorials/index.md
+    - tutorials/tutorial-template.md
     - First Virtue Practice: tutorials/first-virtue-practice.md
-    - classroom-curiosity-workshop.md
-    - facilitating-socratic-seminar.md
+    - tutorials/classroom-curiosity-workshop.md
+    - tutorials/facilitating-socratic-seminar.md
   - How-To Guides: # Problem-solving
     - how-to-guides/index.md
+    - how-to-guides/how-to-template.md
     - Respond to Overconfidence: how-to-guides/respond-to-overconfidence.md
-    - design-honesty-assignments.md
-    - model-intellectual-humility.md
-    - facilitate-difficult-discussions.md
+    - how-to-guides/design-honesty-assignments.md
+    - how-to-guides/model-intellectual-humility.md
+    - how-to-guides/facilitate-difficult-discussions.md
   - Reference: # Information lookup
     - reference/index.md
+    - reference/books-podcasts-interviews-list.md
     - Glossary: reference/glossary.md
-    - virtues-overview.md
-    - vices-overview.md
-    - assessment-rubrics.md
-    - bibliography.md
+    - reference/virtues-overview.md
+    - reference/vices-overview.md
+    - reference/assessment-rubrics.md
+    - reference/bibliography.md
   - Explanation: # Understanding
     - explanation/index.md
-    - why-epistemic-virtues-matter.md
-    - metacognition-and-virtues.md
-    - philosophy-for-children.md
-    - baehr-framework.md
-    - formal-vs-informal-education.md
+    - explanation/why-epistemic-virtues-matter.md
+    - explanation/metacognition-and-virtues.md
+    - explanation/philosophy-for-children.md
+    - explanation/baehr-framework.md
+    - explanation/formal-vs-informal-education.md
   - Personas: # Supporting material
     - personas/index.md
-    - Self-directed Learner: self-directed-learner.md
-    - K12 Educator: k12-educator.md
-    - University Instructor: university-instructor.md
-    - Homeschooler parent: parent-homeschooler.md
+    - Self-directed Learner: personas/self-directed-learner.md
+    - K12 Educator: personas/k12-educator.md
+    - University Instructor: personas/university-instructor.md
+    - Homeschooler parent: personas/parent-homeschooler.md
