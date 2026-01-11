@@ -4,17 +4,7 @@ This article presents each intellectual virtue
 
 ## Curiosity
 
-INTELLECTUAL APATHY ←――――――――― CURIOSITY ―――――――――→ INTELLECTUAL NOSINESS
-    (Deficiency)              (Virtue)                (Excess)
-
-    Indifferent to           Asks thoughtful,         Intrusive, asks
-    learning                 insightful questions     inappropriate questions
-    
-    "I don't care"          "I wonder why/how?"      "What's that worth?"
-    
-    No desire to know       Genuine interest in      Prying into things
-                           understanding             that are none of 
-                                                     one's business
+![Curiosity](images/curiosity_vices.png)
 
 Intellectual Apathy (Deficiency)
 
@@ -40,18 +30,7 @@ Questions relentlessly without regard for context
 Driven by gossip rather than genuine understanding
 Example: Someone who constantly asks "How much did that cost?" or pries into personal matters
 
-INT. CONFORMITY/DEPENDENCE ←――― INT. AUTONOMY ―――→     INT. DOGMATISM
-    (Deficiency)              (Virtue)                (Excess)
-
-    Cannot think             Thinks for               Refuses input
-    independently            oneself while            from others
-                            remaining open
-    
-    "What should             "Here's what            "I don't need
-    I think?"                I think, but            anyone's help"
-                            I'm open to
-                            challenge"                                               
-
+![Autonomy](images/autonomy_vices.png)                                      
 
 Intellectual Conformity/Dependence (Deficiency)
 
@@ -77,18 +56,7 @@ Believes they can figure everything out alone
 Dismisses legitimate authority or expertise
 Example: Someone who rejects expert scientific consensus because "I've done my own research"
 
-
-INT. ARROGANCE ←――――――――――     INT. HUMILITY      ―――――――――→  INT. SERVILITY/SELF-DENIGRATION
-    (Deficiency)             (Virtue)                  (Excess)
-
-    Denies                  Owns limitations          Excessive focus
-    limitations             appropriately             on limitations
-    
-    "I'm never              "I was wrong              "I'm always
-    wrong"                  about that"               wrong"
-    
-    Defensive               Accepting                 Self-deprecating                                  
-
+![Humility](images/humility_vices.png)                              
 
 Intellectual Arrogance (Deficiency)
 
