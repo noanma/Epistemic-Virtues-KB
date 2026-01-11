@@ -15,6 +15,7 @@ We've developed detailed personas representing our core user groups. These perso
 She teaches 10th grade English and wants to help her students think critically about the texts they read and the arguments they encounter. She's looking for practical strategies she can integrate into her existing curriculum without requiring specialized training in philosophy or epistemology.
 
 **Needs:**
+
 - Classroom-ready strategies that don't require major curriculum overhaul
 - Ways to address student overconfidence and closed-mindedness
 - Methods for modeling intellectual virtues authentically
@@ -25,6 +26,7 @@ She teaches 10th grade English and wants to help her students think critically a
 He teaches undergraduate philosophy and is deeply committed to intellectual character development, but struggles to balance content coverage with the time needed to cultivate thinking dispositions. He wants to make epistemic virtue development explicit in his courses while maintaining academic rigor.
 
 **Needs:**
+
 - Sophisticated understanding of epistemic virtue theory
 - Assignment designs that assess epistemic growth
 - Discussion facilitation techniques for diverse perspectives
@@ -37,6 +39,7 @@ He teaches undergraduate philosophy and is deeply committed to intellectual char
 She facilitates adult learning programs and community dialogues on civic issues. She sees how epistemic vices—confirmation bias, intellectual arrogance, and incuriosity—undermine productive community discourse. She wants frameworks for helping adults develop better thinking habits.
 
 **Needs:**
+
 - Non-academic language and frameworks
 - Strategies for working with adults who may be defensive
 - Ways to navigate politically charged contexts
@@ -47,6 +50,7 @@ She facilitates adult learning programs and community dialogues on civic issues.
 He runs after-school and summer programs for middle school students. He wants to help young people develop intellectual curiosity, open-mindedness, and critical thinking, but works outside traditional classroom structures and assessment systems.
 
 **Needs:**
+
 - Approaches suited to informal learning environments
 - Activities that feel engaging rather than "educational"
 - Ways to measure growth without grades or tests
@@ -59,6 +63,7 @@ He runs after-school and summer programs for middle school students. He wants to
 She is a parent of two children (ages 8 and 13) who wants to raise intellectually curious, humble, and thoughtful kids. She's concerned about the overconfident claims she sees on social media and wants to help her children develop good thinking habits, but doesn't have a teaching background.
 
 **Needs:**
+
 - Everyday parenting strategies, not formal lessons
 - Ways to model virtues in family life
 - Age-appropriate approaches for different developmental stages
@@ -70,6 +75,7 @@ She is a parent of two children (ages 8 and 13) who wants to raise intellectuall
 He homeschools his three children and has the flexibility to integrate epistemic virtue development throughout their learning. He wants structured guidance on how to make intellectual character development a central part of their education.
 
 **Needs:**
+
 - Curriculum integration strategies across subjects
 - Assessment approaches for epistemic growth
 - Resources for teaching children to self-monitor their thinking
@@ -84,6 +90,7 @@ While not our primary focus, these groups may also find value in this knowledge 
 Individuals interested in developing their own epistemic virtues, whether for professional development, personal growth, or intellectual enrichment.
 
 **What you'll find useful:**
+
 - [Tutorial: Self-Assessment and Goal Setting](../tutorials/self-assessment-tutorial.md)
 - Explanations of individual virtues and how they develop
 - Reflective exercises and metacognitive strategies
@@ -93,6 +100,7 @@ Individuals interested in developing their own epistemic virtues, whether for pr
 School principals, program directors, and curriculum developers who want to make epistemic virtue development a systemic priority rather than leaving it to individual teachers.
 
 **What you'll find useful:**
+
 - Understanding of why epistemic virtues matter institutionally
 - Frameworks for school-wide implementation
 - Assessment and evaluation considerations
@@ -102,6 +110,7 @@ School principals, program directors, and curriculum developers who want to make
 Scholars studying intellectual character development, virtue epistemology in practice, or educational philosophy.
 
 **What you'll find useful:**
+
 - Theoretical foundations drawn from Baehr, Proust, Lipman, and others
 - Connections between theory and practice
 - References for deeper study
