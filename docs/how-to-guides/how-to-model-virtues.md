@@ -12,6 +12,7 @@ Here's what you can do:
 1. **Think Aloud About Your Uncertainties**: Rather than presenting yourself as an all-knowing authority, verbalize your thought process when you encounter uncertainty.
     
     In practice:
+    
     - When a student asks a question you don't know: "That's a great question. I'm not sure about that. Let me think through what I do know..."
     - When presenting complex material: "I used to think X, but after reading Y, I'm reconsidering. Here's why..."
     - When students disagree with you: "You might be right. Let me make sure I understand your reasoning..."

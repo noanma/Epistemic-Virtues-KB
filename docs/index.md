@@ -49,6 +49,7 @@ This documentation follows the [Diátaxis framework](https://diataxis.fr/), orga
 Guided lessons that teach you epistemic virtue practices through step-by-step activities.
 
 **Popular tutorials:**
+
 - [Your First Intellectual Humility Practice](tutorials/first-virtue-practice.md)
 - [Building a Classroom Culture of Curiosity](tutorials/classroom-curiosity-workshop.md)
 
@@ -58,6 +59,7 @@ Guided lessons that teach you epistemic virtue practices through step-by-step ac
 Practical guides for addressing common challenges in cultivating epistemic virtues.
 
 **Popular guides:**
+
 - [How to Respond When Students Make Overconfident Claims](how-to-guides/respond-to-overconfidence.md)
 - [How to Model Intellectual Humility as an Educator](how-to-guides/model-intellectual-humility.md)
 
@@ -67,6 +69,7 @@ Practical guides for addressing common challenges in cultivating epistemic virtu
 Technical descriptions and lookup information about epistemic virtues and related concepts.
 
 **Key references:**
+
 - [Glossary of Epistemic Virtues and Vices](reference/glossary.md)
 - [Virtues Overview and Comparison](reference/virtues-overview.md)
 - [Bibliography](reference/bibliography.md)
@@ -77,6 +80,7 @@ Technical descriptions and lookup information about epistemic virtues and relate
 In-depth discussions that clarify concepts and explore relationships between ideas.
 
 **Key explanations:**
+
 - [Why Epistemic Virtues Matter in Education](explanation/why-epistemic-virtues-matter.md)
 - [Baehr's Framework of Intellectual Character Virtues](explanation/baehr-framework.md)
 - [Metacognition and Epistemic Virtues](explanation/metacognition-and-virtues.md)

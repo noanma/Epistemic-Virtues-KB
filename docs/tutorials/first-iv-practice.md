@@ -114,6 +114,7 @@ What quality or qualities did I glimpse in myself? How did they show up?
 
 ## Day 5: Notice a Contrasting Moment
 **Task**: Deliberately choose a different type of situation today:
+
 - If you've been observing yourself reading, try observing yourself in conversation.
 - If you've been noticing low-stakes moments, try a slightly higher-stakes one.
 - If you've been thinking about familiar topics, try something unfamiliar.

@@ -4,6 +4,7 @@
 Brief description of what the learner will accomplish and why it matters.
 
 **What you'll learn:**
+
 - Outcome 1
 - Outcome 2
 - Outcome 3
@@ -11,6 +12,7 @@ Brief description of what the learner will accomplish and why it matters.
 **Time required:** [X minutes/hours]
 
 **Prerequisites:**
+
 - What knowledge/experience is assumed
 - Any materials needed
 
@@ -43,6 +45,7 @@ Continue with clear, sequential steps.
 Summary of what the learner has now achieved.
 
 **Next steps:**
+
 - Link to related how-to guide
 - Link to explanation for deeper understanding
 - Suggestion for practice/extension
@@ -57,5 +60,6 @@ Solution or guidance.
 ---
 
 ## Further Reading
+
 - [Related explanation](link)
 - [Related reference](link)

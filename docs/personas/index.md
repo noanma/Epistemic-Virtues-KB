@@ -157,6 +157,7 @@ These personas are based on research and our understanding of who needs this wor
 ## Explore the Personas
 
 Start exploring content by type:
+
 - [How-to Guides](../how-to-guides/index.md) - Practical, task-oriented instructions
 - [Tutorials](../tutorials/index.md) - Structured learning experiences
 - [Explanations](../explanations/index.md) - Conceptual understanding and theory

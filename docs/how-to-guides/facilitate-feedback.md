@@ -19,34 +19,38 @@ Workshop participants give superficial, overly-nice feedback ("I loved it!") or 
 
 ## Solution
 
-1. Set the Frame
+1. Set the Frame.
 Before any feedback session, explain:
-"Good feedback requires intellectual humility from everyone, both the person sharing and those responding. If you're sharing, intellectual humility means acknowledging your work isn't perfect and being genuinely open to seeing its limitations. If you're giving feedback, it means recognizing you might be wrong, that your perspective is just one of many, and that you don't have all the answers."
+    
+    "Good feedback requires intellectual humility from everyone, both the person sharing and those responding. If you're sharing, intellectual humility means acknowledging your work isn't perfect and being genuinely open to seeing its limitations. If you're giving feedback, it means recognizing you might be wrong, that your perspective is just one of many, and that you don't have all the answers."
 
 Why this matters: 
 Explicitly naming the virtue being practiced helps participants recognize it as a skill they're developing, not just a workshop rule.
 
-2. Introduce the "I Notice / I Wonder" Framework
+2. Introduce the "I Notice / I Wonder" Framework.
 Teach participants to structure feedback as:
+
 - "I notice..." (objective observations)
 - "I wonder..." (curious questions, not disguised criticism)
 
     Examples:
-    Good:
+
+    - Good:
     "I notice the character doesn't speak until page 3. I wonder what would change if they spoke earlier?"
     "I notice lots of warm colors in the piece. I wonder how it would feel with a cool color palette?"
-
-    Avoid:
+    - Avoid:
     "You should make the character talk sooner" (prescriptive, not humble)
     "The colors are wrong" (judgmental, not curious)
 
 Why this framework works:
-"I notice" forces observation over interpretation
-"I wonder" frames responses as questions, not answers
-Both require the feedback-giver to acknowledge they might be wrong
 
-3. Practice "Steel-manning"
+- "I notice" forces observation over interpretation
+- "I wonder" frames responses as questions, not answers
+- Both require the feedback-giver to acknowledge they might be wrong
+
+3. Practice "Steel-manning".
 Before offering criticism, participants must:
+
 - Identify what's working in the piece
 - Articulate the creator's likely intention
 - Describe the strongest version of what the creator is attempting
@@ -57,9 +61,10 @@ Before offering criticism, participants must:
 Why this matters:
 Steel-manning requires intellectual humility because you must seriously engage with perspectives or approaches different from what you would choose.
 
-4. Implement "Feedback Sandwich" with Humility Markers
+4. Implement "Feedback Sandwich" with Humility Markers.
 Structure: Strength → Question → Strength
 But add humility markers:
+
 - "This might just be my taste, but..."
 - "I could be wrong about this..."
 - "Other people might see this differently..."
@@ -68,7 +73,7 @@ But add humility markers:
     Example:
     "The imagery in the opening is really strong—I can see this world clearly. I'm genuinely curious whether the pacing in the middle section achieves what you want, because I found myself wanting to slow down and spend more time there. But that might just be my reading style. The ending really landed for me."
 
-5. Create "Clarifying Question" Time
+5. Create "Clarifying Question" Time.
 Before any evaluative feedback, require a round of only clarifying questions:
 - "What were you trying to achieve with...?"
 - "Can you say more about your intention for...?"

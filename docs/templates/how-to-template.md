@@ -8,6 +8,7 @@
 Clear statement of the specific problem or goal this guide addresses.
 
 **When to use this guide:**
+
 - Situation 1
 - Situation 2
 
@@ -60,6 +61,7 @@ When to use this variation and how it differs.
 ---
 
 ## Related Guides
+
 - [Another how-to for related problem](link)
 - [Tutorial if learning basics needed](link)
 - [Explanation for context](link)

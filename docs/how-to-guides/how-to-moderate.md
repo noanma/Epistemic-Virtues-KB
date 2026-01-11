@@ -8,6 +8,7 @@ Students often express certainty beyond what their evidence warrants—declaring
 Overconfidence is one of the most common epistemic vices, even among experts (Proust, 2013). 
 
 When left unaddressed, it can:
+
 - Prevent students from engaging with counterevidence
 - Shut down genuine inquiry and discussion
 - Model poor epistemic habits for other students

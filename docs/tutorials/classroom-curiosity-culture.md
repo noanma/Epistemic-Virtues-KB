@@ -43,6 +43,7 @@ This tutorial helps you create the conditions where that kind of curiosity can f
 1. Share something you genuinely wonder about related to your subject (not a rhetorical question you already know the answer to).
 
     Examples: 
+    
     - "I wonder why leaves change color at different rates on the same tree"
     - "I wonder why some mathematical patterns show up in nature"
     - "I wonder what it felt like to be an ordinary person during [historical event]"
@@ -79,6 +80,7 @@ The Wonder Wall starts to fill up. Some students contribute multiple wonders. Yo
 
 1. Look at the Wonder Wall together and pick 2-3 wonders
 2. Contrast them with other types of questions:
+
     - Curious questions: "I wonder why the sky looks different colors at different times?"
     - Procedural questions: "What page are we on?"
     - Test questions: "What's the capital of France?" (when you're testing, not wondering)
@@ -109,6 +111,7 @@ Students can identify which questions reflect genuine curiosity and can articula
 Curiosity isn't just about having questions—it's about noticing what's interesting. This builds the attention dimension of curiosity.
 
 Example wonderable moments:
+
 - An unexpected result in a science experiment
 - A word that sounds strange or contradictory
 - A historical detail that doesn't match expectations
@@ -147,6 +150,7 @@ Students can identify at least one moment of genuine curiosity from the week. So
 3. Students generate as many questions as possible about it (no answers, only questions)
     
     Key rules:
+
     - No answering questions yet
     - No judging questions as "good" or "bad"
     - Quantity over quality
@@ -166,6 +170,7 @@ Students generate 10-15+ questions as a class. Energy and ideas build as they go
 **How**:
 
 1. Take yesterday's questions and sort them into categories:
+
     - Observational: "What color is it?"
     - Explanatory: "Why is it that color?"
     - Comparative: "How is this different from...?"
@@ -188,6 +193,7 @@ Students become more diverse and intentional in their questioning. They start to
 
 1. Present content (text, image, diagram, problem, etc.)
 2. Students complete two sentence stems:
+
     - "I notice..." (objective observation)
     - "I wonder..." (curious question arising from what they noticed)
 
@@ -207,6 +213,7 @@ Students' wonders connect clearly to their noticings. They're observing more car
 
 1. Pair students.
 2. Give partners 5 minutes to share:
+
     - One thing they're currently wondering about (in or out of school)
     - Why it interests them
     - What they've tried to figure out so far
@@ -227,6 +234,7 @@ Students engage genuinely with their partner's wonders. Some students continue w
 
 1. Look at the Wonder Wall together.
 3. Choose 2-3 wonders that:
+
     - Multiple students are interested in
     - Are feasible to explore
     - Connect to your content (loosely)
@@ -249,6 +257,7 @@ Students take ownership of investigating their wonders. The answers they discove
 
 1. Explain: "Curiosity doesn't look the same in everyone. Some people wonder out loud. Some people wonder quietly. Some people wonder through experimenting. Let's notice different types."
 2. Share examples:
+
     - The student who asks constant questions
     - The student who carefully observes but rarely speaks
     - The student who starts doodling when curious (visual wondering)
@@ -270,6 +279,7 @@ Students recognize their own curiosity style. You start noticing and naming curi
 
 1. Acknowledge: "Sometimes we don't feel curious. That's normal. Let's talk about why."
 2. Discuss potential obstacles:
+
     - Feeling overwhelmed or tired
     - Fear of looking stupid
     - Topic feels irrelevant
@@ -293,6 +303,7 @@ Students feel permission to not be curious all the time. Some articulate specifi
 1. When a student shares a wonder, ask: "What makes you wonder about that?"
 2. Model this yourself: "I wonder why birds migrate. What makes me wonder? I noticed some birds are gone now and I realized I don't actually know why they leave."
 3. Practice with students:
+
     - Student shares a wonder
     - Class asks: "What made you wonder about that?"
     - Student reflects on the source of their curiosity
@@ -312,6 +323,7 @@ Students can articulate not just what they wonder, but why that particular thing
 1. Before starting a new unit/topic, ask: "What do you wonder about [topic]?"
 2. Collect wonders visibly (board, chart, digital doc)
 3. Throughout the unit, pause and say:
+
     - "Remember when Taylor wondered about X? We just learned something about that."
     - "This answers Jordan's question about..."
     - "This creates a new wonder: if this is true, then what about...?"
@@ -331,11 +343,13 @@ Students see direct connections between their wonders and the curriculum. They s
 
 1. Dedicate 20-30 minutes for "Wonder Time"
 2. Students choose:
+
     - A wonder from the Wonder Wall
     - A new wonder that emerged this week
     - A wonder someone else shared that interests them
 
 3. They spend time:
+
     - Researching
     - Experimenting
     - Creating something
@@ -364,11 +378,13 @@ Students are genuinely engaged during Wonder Time. They request more time. They 
     - "Wonder of the Day" posted on board
 
     Weekly rituals:
+
     - Wonder Partners meet
     - "Most Interesting Wonder" voted on by class
     - Teacher shares "What I'm Wondering About This Week"
 
     Monthly rituals:
+
     - "Wonder Wall Review"—revisit old wonders, see which got answered
     - Guest "Wonder Speaker"—someone shares what they're professionally curious about
     - "Wonder Celebration"—share research, projects, or ongoing inquiries
@@ -385,6 +401,7 @@ Rituals become expected parts of classroom routine. Students notice and comment 
 
 1. Bring in something you're actually wondering about (related or unrelated to class).
 2. Share:
+
    - What sparked your wonder
    - What you've tried to figure out
    - What still puzzles you
@@ -408,6 +425,7 @@ Students see you as a learner, not just a teacher. They ask you genuine question
 1. Acknowledge: "Sometimes we ask questions because we think we should, not because we really wonder. That's fake curiosity."
     
     Examples of fake curiosity:
+
    - Asking questions to look smart
    - Asking questions the teacher obviously wants asked
    - Asking questions to delay work
@@ -479,6 +497,7 @@ This is significant work. You've begun shifting your classroom culture in ways t
 ## Sustaining the Culture: What Comes Next
 
 Continue:
+
 - Daily/weekly wonder rituals you established
 - Adding to the Wonder Wall regularly
 - Modeling your own curiosity authentically
