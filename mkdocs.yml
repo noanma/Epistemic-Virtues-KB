@@ -2,36 +2,41 @@ site_name: Epistemic Virtues Knowledge Base
 nav:
   - Home: docs/index.md # Landing page/introduction
   - Tutorials: # Learning-oriented
-    - tutorials/index.md
-    - tutorials/tutorial-template.md
-    - First Virtue Practice: tutorials/first-virtue-practice.md
-    - tutorials/classroom-curiosity-workshop.md
-    - tutorials/facilitating-socratic-seminar.md
+    - "First Virtue Practice": tutorials/first-virtue-practice.md
+    - "Building a Classroom Culture of Curiosity": tutorials/classroom-curiosity-culture.md
+    - "Socratic Seminar": tutorials/facilitating-socratic-seminar.md
+    - "Learning to Notice Intellectual Virtues in Everyday Life": tutorials/notice-iv-in-everyday-life.md
   - How-To Guides: # Problem-solving
-    - how-to-guides/index.md
-    - how-to-guides/how-to-template.md
-    - Respond to Overconfidence: how-to-guides/respond-to-overconfidence.md
-    - how-to-guides/design-honesty-assignments.md
-    - how-to-guides/model-intellectual-humility.md
-    - how-to-guides/facilitate-difficult-discussions.md
+    - "How to Respond When Students Make Overconfident Claims": how-to-guides/respond-to-overconfidence.md
+    - "How to Model Good Epistemic Habits Without Preaching": how-to-guides/how-to-model-virtues.md
+    - "Model Intellectual Humility": how-to-guides/model-intellectual-humility.md
+    - "Facilitate Difficult Discussions": how-to-guides/facilitate-difficult-discussions.md
   - Reference: # Information lookup
-    - reference/index.md
-    - reference/books-podcasts-interviews-list.md
-    - Glossary: reference/glossary.md
-    - reference/virtues-overview.md
-    - reference/vices-overview.md
-    - reference/assessment-rubrics.md
-    - reference/bibliography.md
+    - "Virtues Overview": reference/virtues-overview.md
+    - "Virtues and Vices": reference/virtues-vices.md
+    - "Glossary": reference/glossary.md
+    - "Bibliography": reference/bibliography.md
+    - "Books/Podcasts/Interviews": reference/books-podcasts-interviews-list.md
   - Explanation: # Understanding
-    - explanation/index.md
-    - explanation/why-epistemic-virtues-matter.md
-    - explanation/metacognition-and-virtues.md
-    - explanation/philosophy-for-children.md
-    - explanation/baehr-framework.md
-    - explanation/formal-vs-informal-education.md
+    - "Why Epistemic Virtues Matter": explanation/why-epistemic-virtues-matter.md
+    - “Why Intellectual Virtues Are More Than Skills”: explanation/why-i-v-are-more-than-skills.md
+    - "Metacognition and Virtues": explanation/metacognition-and-virtues.md
+    - "Philosophy for Children": explanation/philosophy-for-children.md
+    - "Jason Baehr's Framework": explanation/baehr-framework.md
+    - "Formal vs Informal Education": explanation/formal-vs-informal-education.md
   - Personas: # Supporting material
-    - personas/index.md
-    - Self-directed Learner: personas/self-directed-learner.md
-    - K12 Educator: personas/k12-educator.md
-    - University Instructor: personas/university-instructor.md
-    - Homeschooler parent: personas/parent-homeschooler.md
+    - "Who is the Knowledge Base for?": personas/index.md
+    - "Self-directed Learner": personas/self-directed-learner.md
+    - "K12 Educator": personas/k12-educator.md
+    - "University Instructor": personas/university-instructor.md
+    - "Homeschooler parent": personas/parent-homeschooler.md
+  - Templates: # Supporting material
+    - "Tutorial Template": templates/tutorial-template.md
+    - "How-to Guide Template": templates/how-to-template.md
+    - "Reference Template": templates/reference-template.md
+    - "Explanation Template": templates/explanation-template.md
+
+plugins:
+  - search
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/

@@ -1,0 +1,9 @@
+{
+  "config": {
+    "default": true,
+    "MD013": false,        // line length (often annoying for prose)
+    "MD033": false         // allow inline HTML (MkDocs/Material sometimes uses it)
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["site/**", ".venv/**", "node_modules/**"]
+}
