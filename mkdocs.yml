@@ -1,6 +1,10 @@
 site_name: Epistemic Virtues Knowledge Base
+
+theme:
+  name: material
+  
 nav:
-  - Home: docs/index.md # Landing page/introduction
+  - Home: index.md # Landing page/introduction
   - Tutorials: # Learning-oriented
     - "First Virtue Practice": tutorials/first-virtue-practice.md
     - "Building a Classroom Culture of Curiosity": tutorials/classroom-curiosity-culture.md
