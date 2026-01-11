@@ -4,7 +4,7 @@ This article presents each intellectual virtue
 
 ## Curiosity
 
-![Curiosity](images/curiosity_vices.png)
+![Curiosity](../images/curiosity_vices.png)
 
 Intellectual Apathy (Deficiency)
 
@@ -30,7 +30,7 @@ Questions relentlessly without regard for context
 Driven by gossip rather than genuine understanding
 Example: Someone who constantly asks "How much did that cost?" or pries into personal matters
 
-![Autonomy](images/autonomy_vices.png)                                      
+![Autonomy](../images/autonomy_vices.png)                                      
 
 Intellectual Conformity/Dependence (Deficiency)
 
@@ -56,7 +56,7 @@ Believes they can figure everything out alone
 Dismisses legitimate authority or expertise
 Example: Someone who rejects expert scientific consensus because "I've done my own research"
 
-![Humility](images/humility_vices.png)                              
+![Humility](../images/humility_vices.png)                              
 
 Intellectual Arrogance (Deficiency)
 
