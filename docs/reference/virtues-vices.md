@@ -307,6 +307,6 @@ Instead of saying "You need more curiosity," say "I noticed you might be leaning
 
 "This semester, I'm working on moving from intellectual cowardice toward courage, while making sure I don't become reckless."
 
-**or Normalization**
+**For Normalization**
 
 These scales show that everyone struggles—we all tend toward one extreme or another at different times. The virtue is the ongoing practice of finding balance.
