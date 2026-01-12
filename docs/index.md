@@ -4,6 +4,14 @@ Welcome to the Epistemic Virtues Knowledge Base!
 
 This is a practical guide for educators, parents, and anyone interested in learning and teaching in the spirit of cultivating intellectual character virtues.
 
+## A Note on Terminology: Epistemic vs Intellectual Virtues
+
+This knowledge base is grounded in virtue epistemology, an approach that emphasizes the role of character and agency in good knowing. Within this tradition, the terms epistemic virtues and intellectual virtues are often used interchangeably, but they carry different emphases: 
+- *epistemic virtues* highlights their relation to knowledge and understanding, while 
+- *intellectual virtues* emphasizes the person who exercises them — their character, motivations, and ways of engaging in inquiry. 
+
+Because this knowledge base is concerned with education, formation, and lived practice, it works primarily with Jason Baehr’s framework and his use of the term intellectual virtues, while also drawing on and referencing other relevant philosophical and educational work.
+
 ## About This Project
 
 This knowledge base was created by [Nóra Mátrai](https://www.linkedin.com/in/noramatrai/) to demonstrate technical writing, docs-as-code, and knowledge base development skills in a portfolio context, applying the Diátaxis documentation framework to philosophical and educational material.
@@ -15,14 +23,6 @@ Teaching for epistemic virtues is complex, context-dependent work that sits at t
 This knowledge base offers something more focused: an introduction to core ideas from virtue epistemology and practical examples of what cultivating these virtues might look like in educational settings. 
 
 The tutorials and how-to guides are starting points—invitations to experiment rather than prescriptions to follow. They illustrate possibilities, not universal solutions. Your work as an educator will require you to adapt these ideas thoughtfully to your own context, reflect on what emerges, and develop your own understanding of how epistemic virtues develop in the particular learners you serve. Think of this resource as a companion to your own inquiry, best used alongside deeper engagement with the theoretical sources cited throughout and attentive reflection on your own practice.
-
-## A Note on Terminology: Epistemic vs Intellectual Virtues
-
-This knowledge base is grounded in virtue epistemology, an approach that emphasizes the role of character and agency in good knowing. Within this tradition, the terms epistemic virtues and intellectual virtues are often used interchangeably, but they carry different emphases: 
-- *epistemic virtues* highlights their relation to knowledge and understanding, while 
-- *intellectual virtues* emphasizes the person who exercises them — their character, motivations, and ways of engaging in inquiry. 
-
-Because this knowledge base is concerned with education, formation, and lived practice, it works primarily with Jason Baehr’s framework and his use of the term intellectual virtues, while also drawing on and referencing other relevant philosophical and educational work.
 
 ## What Are Epistemic Virtues?
 
