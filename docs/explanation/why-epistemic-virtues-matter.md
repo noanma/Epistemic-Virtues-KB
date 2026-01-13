@@ -19,16 +19,19 @@ As Jason Baehr argues, "Intellectual virtues are not merely skills or abilities.
 Epistemic virtues are character traits that contribute to effective thinking and responsible inquiry. They include:
 
 **Learning Initiators** (virtues that spark inquiry):
+
 - **Curiosity** - genuine interest in understanding
 - **Intellectual autonomy** - thinking for oneself
 - **Intellectual humility** - recognizing the limits of one's knowledge
 
 **Learning Maintainers** (virtues that sustain inquiry):
+
 - **Attentiveness** - focused engagement with material
 - **Intellectual carefulness** - precision and accuracy in thinking
 - **Thoroughness** - depth and completeness of inquiry
 
 **Obstacle Overcomers** (virtues that navigate challenges):
+
 - **Open-mindedness** - receptiveness to new ideas and perspectives
 - **Intellectual courage** - willingness to pursue truth despite difficulty
 - **Tenacity** - persistence through intellectual challenges
@@ -42,6 +45,7 @@ These are not fixed personality types but *cultivated dispositions*—they can b
 **The evidence:** Students with stronger epistemic virtues consistently outperform their peers, even when controlling for prior ability (Baehr, 2017; Ritchhart, 2002).
 
 **Why:** Because learning isn't just about intelligence or skills—it requires:
+
 - **Curiosity** to engage deeply with material
 - **Humility** to recognize what you don't know and seek help
 - **Tenacity** to persist through difficult concepts
@@ -57,6 +61,7 @@ A brilliant student who lacks intellectual humility will struggle to learn from 
 **The reality:** We cannot predict what knowledge or skills students will need in 10, 20, or 50 years. Technology changes rapidly. Fields emerge and disappear. Information multiplies exponentially.
 
 **What remains constant:** The need for people who can:
+
 - Learn new things independently (**curiosity, autonomy**)
 - Recognize when they're wrong (**humility**)
 - Evaluate claims carefully (**carefulness, thoroughness**)
@@ -72,6 +77,7 @@ As Matthew Lipman argues, "What students need is not so much to acquire knowledg
 ### 3. They Enable Responsible Citizenship
 
 **The challenge:** Democratic societies require citizens who can:
+
 - Evaluate competing claims and evidence
 - Consider perspectives different from their own
 - Change their minds when warranted
@@ -79,6 +85,7 @@ As Matthew Lipman argues, "What students need is not so much to acquire knowledg
 - Distinguish reliable from unreliable information
 
 **The problem:** These aren't just technical skills. They require character:
+
 - **Humility** to admit uncertainty rather than double down
 - **Open-mindedness** to genuinely consider opposing views
 - **Intellectual courage** to question one's own group
@@ -112,6 +119,7 @@ Epistemic virtues, by contrast, support psychological flexibility, healthy relat
 ### 5. They Make Learning Intrinsically Rewarding
 
 **The motivation problem:** Much of education runs on extrinsic motivation—grades, college admission, job prospects, parental approval. This creates:
+
 - Shallow engagement (doing the minimum for the grade)
 - Fragile motivation (why keep learning after school?)
 - Anxiety and burnout (constant performance pressure)
@@ -135,6 +143,7 @@ As Lipman emphasizes, thinking becomes "an end in itself" rather than merely a m
 When we fail to cultivate epistemic virtues, we see:
 
 **In individuals:**
+
 - Overconfidence and poor judgment
 - Inability to learn from mistakes
 - Intellectual rigidity and closed-mindedness
@@ -144,6 +153,7 @@ When we fail to cultivate epistemic virtues, we see:
 - Fragile self-esteem dependent on being "smart"
 
 **In institutions:**
+
 - Cultures of intellectual dishonesty (cheating, plagiarism)
 - Polarization and inability to dialogue across differences
 - Groupthink and conformity
@@ -151,6 +161,7 @@ When we fail to cultivate epistemic virtues, we see:
 - Ineffective problem-solving (avoiding hard truths)
 
 **In society:**
+
 - Spread of misinformation and conspiracy theories
 - Political polarization and democratic dysfunction
 - Scientific denialism
@@ -187,19 +198,24 @@ Epistemic virtues support and are supported by other important educational aims:
 
 ### Critical Thinking
 **Traditional approach:** Teach argument analysis, logical fallacies, evidence evaluation  
+
 **Limitation:** Students can know the skills but not use them  
+
 **Virtue approach:** Cultivate the *character* to think critically—curiosity to question, humility to revise, courage to challenge
 
 ### Social-Emotional Learning (SEL)
 **Connection:** Self-awareness, self-management, social awareness all depend on accurate thinking about oneself and others  
+
 **Enhancement:** Epistemic virtues provide the intellectual foundation for emotional intelligence
 
 ### Content Mastery
 **Connection:** Deep understanding requires curiosity, thoroughness, and persistence  
+
 **Enhancement:** Students who embody epistemic virtues engage more deeply with content and retain it longer
 
 ### 21st Century Skills
 **Connection:** Collaboration, communication, creativity all require open-mindedness, attentiveness, and intellectual humility  
+
 **Enhancement:** Epistemic virtues make skills usable in real contexts, not just exercises
 
 **The point:** Epistemic virtues aren't an additional burden on top of existing educational goals—they're the foundation that makes other goals achievable.
@@ -213,20 +229,24 @@ Understanding why epistemic virtues matter is the first step. The next is learni
 **Where to go from here:**
 
 **If you're convinced and ready for practical strategies:**
+
 - [How to Model Good Epistemic Habits Without Preaching](../how-to-guides/how-to-model-virtues.md)
 - [Tutorial: Facilitating Your First Socratic Seminar](../tutorials/socratic-seminar-tutorial.md)
 - [How to Respond When Students Make Overconfident Claims](../how-to-guides/respond-to-overconfidence.md)
 
 **If you want deeper understanding of specific virtues:**
+
 - [Explanation: Intellectual Humility](./intellectual-humility.md)
 - [Explanation: Intellectual Courage](./intellectual-courage.md)
 - [Reference: The Nine Core Epistemic Virtues](../reference/core-virtues.md)
 
 **If you want to understand how virtues develop:**
+
 - [Explanation: How Epistemic Virtues Are Formed](./how-virtues-develop.md)
 - [Explanation: Why Modeling Matters More Than Direct Instruction](./why-modeling-matters.md)
 
 **If you need to make the case to others:**
+
 - [Reference: Research Evidence for Epistemic Virtue Education](../reference/research-evidence.md)
 - [Reference: Objections and Responses](../reference/objections-responses.md)
 
